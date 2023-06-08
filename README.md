@@ -4,5 +4,4 @@
 
 ## References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
+Based on [https://repositorio.ufba.br/bitstream/ri/4984/1/capoeira%20na%20escola.pdf](https://repositorio.ufba.br/bitstream/ri/4984/1/capoeira%20na%20escola.pdf) and [https://www.idealcapoeira.com/](http://idealcapoeira.com/)
