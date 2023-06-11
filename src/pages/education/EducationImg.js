@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function EducationImg(props) {
-  const theme = props.theme;
+
   return (
     <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="300.000000pt" height="179.000000pt" viewBox="0 0 300.000000 179.000000"

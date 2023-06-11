@@ -2,7 +2,6 @@ import React from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import BlogsImg from "./BlogsImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { contactPageData } from "../../portfolio.js";
@@ -62,7 +61,7 @@ function Contact(props) {
               >
                 {blogSection["subtitle"]}
               </p>
-              <p
+              <div
                 className="blog-header-detail-text subTitle"
                 style={{ color: theme.secondaryText, textAlign: 'center' }}
               >
@@ -70,7 +69,7 @@ function Contact(props) {
                 que não possuem condições, e fazer intercâmbios representando nossa cidade.
                 <h3>PIX: anac76459@gmail.com</h3>
                 <h4>(Ana Carla Ferreira Albino)</h4>
-              </p>
+              </div>
             </div>
 
 

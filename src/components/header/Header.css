@@ -100,6 +100,7 @@
   display: none;
 }
 
+
 .header .menu-btn:checked ~ .menu {
   max-height: 370px;
 }
@@ -170,6 +171,12 @@
 }
 
 .cr {
+  margin: 2px 5px 20px;
+  transition: all 0.2s ease-in-out;
+  color: #ffffff;
+}
+
+.cr1 {
   margin: 2px 5px 20px;
   transition: all 0.2s ease-in-out;
   color: #ffffff;

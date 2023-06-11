@@ -12,7 +12,6 @@ import 'react-vertical-timeline-component/style.min.css';
 import SportsMartialArtsIcon from '@mui/icons-material/SportsMartialArts';
 import HomeWorkIcon from '@mui/icons-material/HomeWork';
 
-const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 
 function Aulas(props) {
@@ -33,6 +32,8 @@ function Aulas(props) {
                 alt=""
               /> */}
                         </div>
+                        <img src="https://raw.githubusercontent.com/idealcapoeirasolanea/images/main/luta.png"
+                        alt="Luta" style={{margin: '0 auto', display: 'flex', justifyContent: 'center'}}/>
                         <h3 style={{ textAlign: 'center' }}>Local e Horários de Aulas</h3>
                         <h4 style={{ textAlign: 'center' }}>(Está sujeito a mudanças por causa de feriados ou imprevistos)</h4>
                         <hr />
@@ -133,7 +134,7 @@ function Aulas(props) {
                             >
                                 {blogSection["subtitle"]}
                             </p>
-                            <p
+                            <div
                                 className="blog-header-detail-text subTitle"
                                 style={{ color: theme.secondaryText, textAlign: 'center' }}
                             >
@@ -141,7 +142,7 @@ function Aulas(props) {
                                 que não possuem condições, e fazer intercâmbios representando nossa cidade.
                                 <h3>PIX: anac76459@gmail.com</h3>
                                 <h4>(Ana Carla Ferreira Albino)</h4>
-                            </p>
+                            </div>
                         </div>
 
 

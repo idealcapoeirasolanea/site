@@ -33,8 +33,9 @@ export default function Greeting(props) {
                   {greeting.full_name}.{" "}
                 </span>
                 {greeting.subTitle}
-                <h3 style={{textAlign: 'center'}}>VOCÊ É O NOSSO CONVIDADO!</h3>
+                
               </p>
+              <h3 className="greeting-text-p subTitle" style={{textAlign: 'center'}}>VOCÊ É O NOSSO CONVIDADO!</h3>
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
                 <button

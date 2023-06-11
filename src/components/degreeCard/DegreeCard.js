@@ -63,15 +63,15 @@ function DegreeCard(props) {
               </h3>
             </div>
           </div>
-          <div classname="body-content">
-            <p style={{marginLeft: "10px", marginTop: "-10px"}}>
+          <div className="body-content">
+            <div style={{marginLeft: "10px", marginTop: "-10px"}}>
 
               {degree.requisitos.map((text)=>{
                 return (
-                    <p>{text}</p>
+                    <p key={text}>{text}</p>
                 );
               })}
-            </p>
+            </div>
           </div>
         </div>
       </Fade>

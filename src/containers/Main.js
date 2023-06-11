@@ -12,7 +12,7 @@ import Aulas from "../components/aulas/Aulas";
 export default function Main(propss) {
   if (settings.isSplash) {
     return (
-      <div>
+      <div id="header">
         <HashRouter basename="/">
           <Switch>
             <Route

@@ -9,7 +9,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Olá 👋.",
+  title: "Olá 👋",
   title2: "Railson Santos",
   logo_name: "Ideal Solânea",
   // nickname: "harry / picleric",
@@ -37,14 +37,14 @@ const skills = {
         "⚡ História: conhecemos a origem da arte capoeira e o desenvolvimento do grupo Ideal;",
         "⚡ Capoeira é luta: com muitos exercícios de alongamento, resistência e acrobáticos se faz essa linda arte marcial;",
         "⚡ Música: com a participação e estudos dos instrumentos musicais o aluno vai sentir a energia de jogar capoeira;",
-        "⚡ Diálogos, conselhos e orientação, aqui você encontra muito mais, focado no desenvolvimento físico e psicológico do aluno.",
+        "⚡ Diálogos, conselhos e orientação: aqui você encontra muito mais, focado no desenvolvimento físico e psicológico do aluno.",
       ],
       
     },
     {
       title: "Quem pode participar?",
       skills: [
-        "⚡ Crianças, adultos, idosos, etc. Venha conhercer;",
+        "⚡ Crianças, adultos, idosos, etc.;",
         "⚡ Você que procura uma arte marcial;",
         "⚡ Quem quer manter o corpo em dia e quer fugir da rotina para viver um lazer;",
         "⚡ Quem procura conhecer outras culturas por meio da capoeira.",

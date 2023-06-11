@@ -37,7 +37,7 @@ const images = [
 ];
 
 export default function ProjectsImg(props) {
-  const theme = props.theme;
+
   return (
     <ImageGallery items={images} />
   );

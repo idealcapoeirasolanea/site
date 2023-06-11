@@ -72,7 +72,7 @@ body {
 }
 
 .ball:nth-child(5) {
-  background: #2d3443;
+  background: #006dfaf7;
   -webkit-animation: right 1.1s infinite ease-in-out;
   -moz-animation: right 1.1s infinite ease-in-out;
   animation: right 1.1s infinite ease-in-out;
